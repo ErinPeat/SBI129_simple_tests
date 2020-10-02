@@ -1,5 +1,4 @@
-![Build Status]
-(https://github.com/ErinPeat/SBI129_simple_tests/workflows/pytesting/badge.svg)
+![Build Status](https://github.com/ErinPeat/SBI129_simple_tests/workflows/pytesting/badge.svg)
 
 # SBI129_simple_tests
 
