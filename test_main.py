@@ -7,4 +7,4 @@ from main import func
 #Test the function
 class TestSimpleFunction(unittest.TestCase):
     def test_answer(self):
-        self.assertEqual(func(3), 5)
+        self.assertEqual(func(4), 5)
